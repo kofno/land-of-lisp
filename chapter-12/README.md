@@ -5,7 +5,7 @@ exercises using usockets.
 
 The easiest way to get USOCKETS (or most CL libraries, as near as I
 can tell) is to use
-(QuickLisp)[http://www.quicklisp.org/beta/]. Follow that link to get
+[QuickLisp](http://www.quicklisp.org/beta/). Follow that link to get
 instructions for installing QuickLisp. I recommend running
 (ql:add-to-init-file) as well.
 
