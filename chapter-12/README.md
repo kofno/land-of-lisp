@@ -11,7 +11,7 @@ instructions for installing QuickLisp. I recommend running
 
 Then, to install usockets:
 
-    (ql:quickload "usockets")
+    (ql:quickload "usocket")
 
 Assuming that all went well, the code here should work fine for this
 chapter.
